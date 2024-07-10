@@ -1,6 +1,10 @@
 # CrashFix
-This is my first program
+This is my first program 
+
 How to use
-Press numpad- when you entered the game
-and when u close game press numpad+
+
+Press numpad- when you launched the game
+
+and when u closed game press numpad+
+
 For exit the program press ctrl+*
