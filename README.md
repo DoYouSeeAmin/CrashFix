@@ -7,4 +7,4 @@ Press numpad- when you launched the game
 
 and when u closed game press numpad+
 
-For exit the program press ctrl+*
+For exit the program press right ctrl+*
